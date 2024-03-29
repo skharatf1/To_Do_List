@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font */
+    background-color: peachpuff;
+}
+
+.container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
